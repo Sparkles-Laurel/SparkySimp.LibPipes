@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SparkySimp.LibPipes", "SparkySimp.LibPipes.csproj", "{C71586A2-DEA5-4A6E-B044-85E5E266CCED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9C2CE574-A60E-4AB7-AAE8-EE0C5A66E283}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SS.LibPipes.Test", "..\SS.LibPipes.Test\SS.LibPipes.Test.csproj", "{6E7CE8ED-300F-48BF-8852-CC3147BC5F1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C71586A2-DEA5-4A6E-B044-85E5E266CCED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C71586A2-DEA5-4A6E-B044-85E5E266CCED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C71586A2-DEA5-4A6E-B044-85E5E266CCED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C71586A2-DEA5-4A6E-B044-85E5E266CCED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E7CE8ED-300F-48BF-8852-CC3147BC5F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E7CE8ED-300F-48BF-8852-CC3147BC5F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E7CE8ED-300F-48BF-8852-CC3147BC5F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E7CE8ED-300F-48BF-8852-CC3147BC5F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A514D88D-751D-4A28-AEA7-6B4F4D9B211F}
+	EndGlobalSection
+EndGlobal
